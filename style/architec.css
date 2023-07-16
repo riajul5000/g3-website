@@ -1,0 +1,8 @@
+/* work sans font from google fonts*/
+  @import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@400;500;600;900&family=Kanit:ital,wght@1,100&family=Open+Sans:wght@800&display=swap');
+
+  *{
+    font-family: 'Inconsolata', monospace;
+    font-family: 'Kanit', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+  }
